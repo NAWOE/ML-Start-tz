@@ -33,3 +33,4 @@ Git & GitHub: для контроля версий и хостинга прое�
 GitHub: [@NAWOE](https://github.com/NAWOE)
 Telegram: [@eow4nxgod](https://t.me/eow4nxgod)
 VK: [@n4woe](https://vk.com/n4woe)
+Gmail: [eowyn228top@gmail.com]
